@@ -66,7 +66,7 @@ const articlesData = {
     <p>Secara sederhana, HTTP dan HTTPS adalah protokol dasar untuk komunikasi di web. Sementara HTTP mentransfer data tanpa enkripsi, HTTPS menambahkan lapisan keamanan dengan mengenkripsi data, menjadikannya pilihan yang lebih baik untuk situs web yang menangani informasi sensitif.</p>
 
     `,
-    image: "/images/image2.PNG",
+    image: "/images/image2.png",
   },
   3: {
     title: "Definisi dan Cara Kerja Nama Domain",

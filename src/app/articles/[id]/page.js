@@ -54,7 +54,7 @@ const articlesData = {
       <li><strong>- Enkripsi</strong>: Saat pengguna mengakses situs web yang menggunakan HTTPS, browser melakukan koneksi yang aman dengan server menggunakan SSL/TLS. Ini melibatkan proses handshake untuk membuat kunci enkripsi.<br></li>
       <li><strong>- Permintaan dan Respon</strong>: Setelah koneksi aman terbentuk, permintaan dan respon HTTP dikirim dalam bentuk terenkripsi. Ini berarti bahwa data yang ditransfer tidak dapat dibaca oleh pihak ketiga.<br></li>
       <li><strong>- Integritas Data</strong>: HTTPS juga memastikan bahwa data yang dikirim tidak diubah selama perjalanan. Jika data terdeteksi telah diubah, koneksi akan dianggap tidak aman.<br></li>
-    </ul>
+    </ul> <br>
 
     <h3><strong>Kelebihan HTTPS</strong></h3>
     <ul>

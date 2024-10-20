@@ -26,9 +26,12 @@ const articlesData = {
     <h3><strong>7. Protokol HTTP dan HTTPS</strong></h3>
     <p>Kebanyakan permintaan web menggunakan HTTP (HyperText Transfer Protocol) atau versi amannya, HTTPS. Protokol ini menentukan bagaimana data web ditransfer antara server dan browser Anda. HTTPS menambahkan lapisan keamanan dengan mengenkripsi data yang dikirimkan, sehingga aman dari penyadapan oleh pihak ketiga.</p> <br><br>
 
-    <p>Secara sederhana, internet bekerja dengan mengirimkan dan menerima data dalam bentuk paket-paket kecil yang melalui berbagai jaringan hingga sampai ke tujuan. Protokol komunikasi seperti TCP/IP, DNS, dan HTTP/HTTPS memfasilitasi proses ini. Teknologi yang ada di balik internet memungkinkan kita untuk dengan mudah mengakses informasi, berkomunikasi, dan berbagi data dalam hitungan detik. Dengan memahami cara kerja internet, kita dapat lebih menghargai betapa kompleksnya teknologi yang digunakan untuk menjalankan dunia digital yang kita nikmati sehari-hari.</p>
+    <p>Secara sederhana, internet bekerja dengan mengirimkan dan menerima data dalam bentuk paket-paket kecil yang melalui berbagai jaringan hingga sampai ke tujuan. Protokol komunikasi seperti TCP/IP, DNS, dan HTTP/HTTPS memfasilitasi proses ini. Teknologi yang ada di balik internet memungkinkan kita untuk dengan mudah mengakses informasi, berkomunikasi, dan berbagi data dalam hitungan detik. Dengan memahami cara kerja internet, kita dapat lebih menghargai betapa kompleksnya teknologi yang digunakan untuk menjalankan dunia digital yang kita nikmati sehari-hari.</p><br><br>
 
-    `,
+    <h4><strong>Referensi:</strong></h4>
+    <a href="https://www.megavision.net.id/blog/informasi/cara-kerja-internet#:~:text=Dalam%20esensi%2C%20cara%20kerja%20internet%20adalah%20dengan%20mengirimkan,mengirimkan%20data%20yang%20diminta%20kembali%20ke%20komputer%20kita.">Prinsip dan Cara Kerja Internet dalam Perangkat Kita</a><br>
+    <a href="https://geograf.id/tips/cara-kerja-internet/">Apa itu Internet? Ini Pengertian, Sejarah, dan Cara Kerjanya</a>
+      `,
     image: "/images/image1.png",
   },
   2: {
@@ -63,15 +66,19 @@ const articlesData = {
       <li><strong>- SEO</strong>: Mesin pencari seperti Google memberikan peringkat lebih baik pada situs yang menggunakan HTTPS.<br></li>
     </ul> <br><br>
 
-    <p>Secara sederhana, HTTP dan HTTPS adalah protokol dasar untuk komunikasi di web. Sementara HTTP mentransfer data tanpa enkripsi, HTTPS menambahkan lapisan keamanan dengan mengenkripsi data, menjadikannya pilihan yang lebih baik untuk situs web yang menangani informasi sensitif.</p>
+    <p>Secara sederhana, HTTP dan HTTPS adalah protokol dasar untuk komunikasi di web. Sementara HTTP mentransfer data tanpa enkripsi, HTTPS menambahkan lapisan keamanan dengan mengenkripsi data, menjadikannya pilihan yang lebih baik untuk situs web yang menangani informasi sensitif.</p><br><br>
 
+    <h4><strong>Referensi:</strong></h4>
+    <a href="https://omnirank.id/perbedaan-http-dan-https/">Perbedaan HTTP dan HTTPS beserta Pengertian</a><br>
+    <a href="https://www.hostinger.co.id/tutorial/perbedaan-http-dan-https">Perbedaan HTTP dan HTTPS serta Pengertiannya</a>
+   
     `,
     image: "/images/image2.png",
   },
   3: {
     title: "Definisi dan Cara Kerja Nama Domain",
     content: `
-     <h2><strong>Definisi</strong></h2><br>
+      <h2><strong>Definisi</strong></h2><br>
       <p><strong>Nama Domain</strong> adalah alamat yang digunakan untuk mengidentifikasi suatu situs web di internet. Nama domain berfungsi sebagai pengganti alamat IP yang sulit diingat. Sebagai contoh, alih-alih mengingat alamat IP seperti 192.168.1.1, pengguna cukup mengetikkan nama domain seperti <a href="https://www.example.com">www.example.com</a> di browser mereka. Nama domain terdiri dari dua bagian utama: <em>nama</em> dan <em>ekstensi</em> (TLD), contohnya <em>example</em> adalah nama dan <em>.com</em> adalah ekstensi.</p><br>
 
       <h2><strong>Cara Kerja Nama Domain</strong></h2><br>
@@ -85,7 +92,12 @@ const articlesData = {
       </ol>
 
       <h2><strong>Pentingnya Nama Domain</strong></h2><br>
-      <p>Nama domain adalah komponen penting dalam pengembangan web, karena memberikan cara yang mudah diingat bagi pengguna untuk mengakses situs. Selain itu, memiliki nama domain yang baik dapat meningkatkan kredibilitas dan profesionalisme suatu bisnis.</p>
+      <p>Nama domain adalah komponen penting dalam pengembangan web, karena memberikan cara yang mudah diingat bagi pengguna untuk mengakses situs. Selain itu, memiliki nama domain yang baik dapat meningkatkan kredibilitas dan profesionalisme suatu bisnis.</p><br><br>
+      
+    <h4><strong>Referensi:</strong></h4>
+    <a href="https://www.septianbw.com/domain-adalah/">Apa itu Domain? Pengertian dan Jenis-jenisnya</a><br>
+    <a href="https://www.hostinger.co.id/tutorial/apa-itu-domain/">Apa Itu Domain? Pengertian Domain dan Jenis-Jenisnya</a>
+
     
     `,
     image: "/images/image3.png",
@@ -114,7 +126,12 @@ const articlesData = {
         <li><strong>3. Fleksibilitas:</strong> Jika alamat IP server berubah, administrator dapat memperbarui DNS tanpa mengubah nama domain, menjaga aksesibilitas situs web.</li>
       </ul> <br><br>
 
-      <p>Secara keseluruhan, DNS adalah komponen krusial dalam pengalaman pengguna di internet, memungkinkan navigasi yang lebih mudah dan cepat ke berbagai situs web tanpa kerumitan alamat IP.</p>
+      <p>Secara keseluruhan, DNS adalah komponen krusial dalam pengalaman pengguna di internet, memungkinkan navigasi yang lebih mudah dan cepat ke berbagai situs web tanpa kerumitan alamat IP.</p><br><br>
+   
+      <h4><strong>Referensi:</strong></h4>
+      <a href="https://elevenmillion.blogspot.com/2010/02/apa-itu-dns-server-cara-kerja-fungsi-dns.html">Apa itu DNS Server - Cara Kerja & Fungsi DNS</a><br>
+      <a href="https://www.rumahweb.com/journal/dns-adalah/">Apa itu DNS? Fungsi, Cara Kerja, Tipe hingga Cara Settingnya</a>
+
     `,
     image: "/images/image4.png",
   },
@@ -144,7 +161,12 @@ const articlesData = {
         <li><strong>4. Dukungan Teknis:</strong> Banyak penyedia hosting menawarkan dukungan teknis untuk membantu pengguna mengatasi masalah yang mungkin terjadi.</li>
       </ul><br><br>
 
-      <p>Secara keseluruhan, hosting adalah komponen penting yang memungkinkan situs web berfungsi dan diakses oleh pengguna di seluruh dunia. Memilih penyedia layanan hosting yang tepat sangat penting untuk kesuksesan dan keamanan situs web Anda.</p>
+      <p>Secara keseluruhan, hosting adalah komponen penting yang memungkinkan situs web berfungsi dan diakses oleh pengguna di seluruh dunia. Memilih penyedia layanan hosting yang tepat sangat penting untuk kesuksesan dan keamanan situs web Anda.</p><br><br>
+
+      <h4><strong>Referensi:</strong></h4>
+      <a href="https://dewaweb.com/blog/pengertian-hosting/">Apa itu Hosting? Pengertian, Cara Kerja, & Fungsinya!</a><br>
+      <a href="https://www.hostinger.co.id/tutorial/apa-itu-web-hosting">Apa Itu Hosting Web? Pengertian, Fungsi, dan Jenisnya</a>
+
     `,
     image: "/images/image5.png",
   },
@@ -174,8 +196,13 @@ const articlesData = {
         <li><strong>4. Ekstensi dan Add-ons:</strong> Banyak browser mendukung ekstensi yang memungkinkan pengguna menambahkan fitur tambahan, seperti pemblokir iklan, manajer kata sandi, dan alat produktivitas lainnya.</li>
       </ul><br><br>
 
-      <p>Secara keseluruhan, browser adalah jendela utama ke dunia digital, memfasilitasi akses informasi dan interaksi online. Memahami cara kerja browser membantu pengguna menghargai teknologi yang memungkinkan pengalaman berselancar yang cepat dan aman.</p>
-    `,
+      <p>Secara keseluruhan, browser adalah jendela utama ke dunia digital, memfasilitasi akses informasi dan interaksi online. Memahami cara kerja browser membantu pengguna menghargai teknologi yang memungkinkan pengalaman berselancar yang cepat dan aman.</p><br><br>
+
+      <h4><strong>Referensi:</strong></h4>
+      <a href="https://www.sekawanmedia.co.id/blog/web-browser-adalah/">Web Browser: Definisi, Fungsi, Cara Kerja, Jenis, & Contoh</a><br>
+      <a href="https://anakrumahan218.blogspot.com/2019/08/penjelasan-lengkap-web-browser.html">Penjelasan Lengkap Web Browser</a>
+  
+      `,
     image: "/images/image6.png",
   },
 };
@@ -196,7 +223,9 @@ const Article = ({ params }) => {
         className="border-2 rounded-full hover:border-black hover:cursor-pointer"
       />
       <div className="px-12">
-        <h1 className="font-bold text-3xl md:text-4xl lg:text-5xl ">{article.title}</h1>
+        <h1 className="font-bold text-3xl md:text-4xl lg:text-5xl ">
+          {article.title}
+        </h1>
         <div className="border-b-2 m-2"></div>
         <Image
           src={article.image}

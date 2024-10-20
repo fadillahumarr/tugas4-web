@@ -44,12 +44,13 @@ const Home = () => {
       icon: <WebRounded fontSize="large" />,
     },
   ];
+
   return (
-    <div className="flex flex-col justify-center w-screen h-screen py-12 px-32 gap-5 bg-gradient-to-t from-black to-slate-800">
-      <h1 className=" text-white text-5xl font-bold text-center">
+    <div className="w-screen min-h-screen py-3 px-12 gap-5 bg-gradient-to-t from-black to-slate-800 lg:py-6 lg:px-28">
+      <h1 className=" text-white text-3xl font-bold text-center m-5 md:text-4xl lg:text-5xl ">
         Pemahaman Infrastruktur Internet
       </h1>
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {articles.map((article) => (
           <Card
             key={article.id}

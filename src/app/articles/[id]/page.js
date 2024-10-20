@@ -104,7 +104,7 @@ const articlesData = {
         <li><strong>3. Cache DNS:</strong> Untuk mempercepat proses, hasil dari pencarian alamat IP disimpan dalam cache DNS di server dan perangkat pengguna. Ini berarti bahwa jika nama domain yang sama diminta lagi dalam waktu tertentu, server atau perangkat dapat memberikan alamat IP dari cache tanpa perlu melakukan pencarian ulang.</li>
         <li><strong>4. Pengembalian Alamat IP:</strong> Setelah menemukan alamat IP yang sesuai, server DNS mengembalikannya ke browser. Dengan alamat IP ini, browser dapat mengirimkan permintaan ke server yang sesuai untuk mengakses konten situs web.</li>
         <li><strong>5. Menampilkan Konten:</strong> Browser menerima data dari server dan menampilkan halaman web kepada pengguna.</li>
-      </ol>
+      </ol><br><br>
 
       <h2><strong>Pentingnya DNS</strong></h2><br>
       <p>DNS sangat penting dalam infrastruktur internet karena:</p>
@@ -189,14 +189,14 @@ const Article = ({ params }) => {
   }
 
   return (
-    <div className="flex flex-col gap-5 px-32 py-12">
+    <div className="flex flex-col gap-5 px-8 py-3 lg:px-32 lg:py-12">
       <KeyboardArrowLeftRoundedIcon
         fontSize="large"
         onClick={() => window.history.back()}
         className="border-2 rounded-full hover:border-black hover:cursor-pointer"
       />
       <div className="px-12">
-        <h1 className="font-bold text-5xl ">{article.title}</h1>
+        <h1 className="font-bold text-3xl md:text-4xl lg:text-5xl ">{article.title}</h1>
         <div className="border-b-2 m-2"></div>
         <Image
           src={article.image}
